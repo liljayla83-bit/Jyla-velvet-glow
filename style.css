@@ -28,20 +28,20 @@ nav a {
  nav a:hover { color:•#f4b400; }
 
 .hero {
-             background: url("index-image\Facials.jpeg") ;
+             background: url("index-image\ Facials.jpeg") ;
              height:90vh;
              display:flex;
              align-items:center;
              justify-content:center;
              text-align:center;
-             color:white;
+             color:rgb(231, 12, 67);
 
              }
 
 header h1 { margin:0; font-size:28px; }
         
 nav a
-            { color:white;
+            { color:rgb(163, 36, 89);
               margin-left:20px;
              text-decoration: none;
              font-size:16px;
@@ -51,13 +51,13 @@ nav a
 nav a:hover{color:•#f4b400; }
 
 .hero {
-             background:url(index-image\Facials.jpeg);
+             background:url(image\Facials.jpeg);
              height:90vh;
              display:flex;
              align-items:center;
              justify-content:center;
              text-align:center;
-             color:rgb(173, 116, 31);
+             color:rgb(197, 15, 76);
              padding:20px
         }
      
