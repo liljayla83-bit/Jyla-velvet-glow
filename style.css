@@ -66,14 +66,26 @@ nav a:hover{color:•#f4b400; }
             max-width:800px
         }
 
-  .hero p {
+ 
+
+.hero h1{
+    background-color: #f7f4f4;
+    color: #df1167;
+    font-size: 400%;
+}
+
+ .hero p {
             font-size:20px;
             margin:20px auto; 
             max-width:600px;
+            background-color: #f8fafa;
+            color: #df1167;
+            
         }
 
+
  .cta-btn {
-            background:#df1167;
+            background:#f0ebed;
             color: #111;
             padding: 15px 30px;
             border:none;
